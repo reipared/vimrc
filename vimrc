@@ -14,5 +14,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'dense-analysis/ale'
 Plug 'honza/vim-snippets'
 Plug 'tpope/vim-fugitive'
+Plug 'vim-ruby/vim-ruby'
+Plug 'mattn/emmet-vim'
 call plug#end()
 colorscheme purify
