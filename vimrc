@@ -5,6 +5,8 @@ set tabstop=4
 set shiftwidth=4
 set autoindent
 set mouse=a
+set nocp
+filetype plugin on
 syntax on
 call plug#begin()
 Plug 'junegunn/rainbow_parentheses.vim'
